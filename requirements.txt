@@ -1,5 +1,4 @@
-# 包名 + 版本（指定版本更稳定）
-streamlit>=1.32.0  # 至少需要1.35.0版本
-plotly==6.18.0     # 固定使用6.10.0版本
+streamlit
+plotly
+pandas
 
-pandas>=2.1.4      # 至少2.2.0版本
